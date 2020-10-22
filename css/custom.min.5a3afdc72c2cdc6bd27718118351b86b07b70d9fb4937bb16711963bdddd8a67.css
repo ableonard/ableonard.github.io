@@ -1,0 +1,1 @@
+.fancy{color:#32cd32}.fluid-col-grid ul{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));grid-gap:1rem;list-style:disc}.fluid-col-grid ul li:before{content:''}
